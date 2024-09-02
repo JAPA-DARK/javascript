@@ -49,7 +49,7 @@
 
 <body>
     <h1>verifique sua nacionalidade</h1>
-     <p>Pais em que voce nasceu</p> <input type="text" name="txtpais" id="txtpais" placeholder="pais">
+     <p>Pais em que você nasceu</p> <input type="text" name="txtpais" id="txtpais" placeholder="pais">
     <input type="button" value="verificar" id="button" onclick="calcular()">
     <div id="res">resultado</div>
     <script>
@@ -59,9 +59,9 @@
             var nacionalidade = (txtp.value)
             res.innerHTML = `<p>seu pais de origem é <strong>${nacionalidade}</strong></p>`
             if (nacionalidade == 'brasil') {
-                res.innerHTML += '<p>voce é <strong>Brasileiro</strong></p>'
+                res.innerHTML += '<p>você é <strong>Brasileiro</strong></p>'
             } else {
-                res.innerHTML += '<p>voce é <strong>estrangeiro</strong>.</p>'
+                res.innerHTML += '<p>você é <strong>estrangeiro</strong>.</p>'
             }
         }
     </script>
