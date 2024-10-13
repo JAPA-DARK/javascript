@@ -1,8 +1,9 @@
-var inicio = 2;
-var fim = 738;
-var todospares = "numeros pares ";
-while(inicio <= fim ){
-  todospares = todospares + inicio +", ";
-  inicio = inicio + 2;
+function umclique() {
+  document.getElementById("imagem").src="fachada.jpg";
+  document.getElementById("log").innerHTML += "troca para a foto da fachada<br>";
 }
-alert(todospares);
+
+function doiscliques() {
+    document.getElementById("imagem").src="ifrs.gif";
+    document.getElementById("log").innerHTML += "troca para o logo do ifrs<br>";
+}
