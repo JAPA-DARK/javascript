@@ -58,10 +58,10 @@
             var res = window.document.querySelector('div#res')
             var nacionalidade = (txtp.value)
             res.innerHTML = `<p>seu pais de origem é <strong>${nacionalidade}</strong></p>`
-            if (nacionalidade == 'Brasil' || 'brasil') {
+            if (nacionalidade == 'Brasil' || 'brasil')  {
                 res.innerHTML += '<p>você é <strong>Brasileiro</strong></p>'
             } else {
-                res.innerHTML += '<p>você é <strong>estrangeiro</strong>.</p>'
+                res.innerHTML += `<p>você é <strong>estrangeiro</strong></p>`
             }
         }
     </script>
