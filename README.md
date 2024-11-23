@@ -12,3 +12,5 @@
  EVENTOS DE CURSOR: / https://japa-dark.github.io/javascript/aulaJSIFEDERAL02/INDEX.HTML
 
  CALCULO DE IMC: / https://japa-dark.github.io/javascript/aulaJSIFEDERAL03/INDEX.HTML
+
+ SISTEMA DE MULTAS: / https://japa-dark.github.io/javascript/aula11/ex010.html
