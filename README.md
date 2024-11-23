@@ -8,3 +8,5 @@
  EVENTOS DE CLICK: / https://japa-dark.github.io/javascript/aulaJSIFEDERAL/index.html
 
  EVENTOS DE CURSOR: / https://japa-dark.github.io/javascript/aulaJSIFEDERAL02/INDEX.HTML
+
+ CALCULO DE IMC: / https://japa-dark.github.io/javascript/aulaJSIFEDERAL03/INDEX.HTML
