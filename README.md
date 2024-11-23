@@ -14,3 +14,5 @@
  CALCULO DE IMC: / https://japa-dark.github.io/javascript/aulaJSIFEDERAL03/INDEX.HTML
 
  SISTEMA DE MULTAS: / https://japa-dark.github.io/javascript/aula11/ex010.html
+
+ SOMA DE NUMEROS: / https://japa-dark.github.io/javascript/aula10/ex007.html
