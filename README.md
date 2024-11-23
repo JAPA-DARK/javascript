@@ -6,3 +6,5 @@
  EVENTOS DE INPUT: / https://japa-dark.github.io/javascript/aulaJSIFEDERAL01/INDEX.HTML
 
  EVENTOS DE CLICK: / https://japa-dark.github.io/javascript/aulaJSIFEDERAL/index.html
+
+ EVENTOS DE CURSOR: / https://japa-dark.github.io/javascript/aulaJSIFEDERAL02/INDEX.HTML
