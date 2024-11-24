@@ -1,8 +1,9 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgb(204, 154, 252);
+    background-color: rgb(20, 66, 119);
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 header {
     color: white;
@@ -16,6 +17,11 @@ section {
     margin: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.603);
     
+}
+select {
+    background-color: rgb(10, 10, 10);
+    color: red;
+    font-weight: bolder;
 }
 footer {
     color: white;
