@@ -16,3 +16,5 @@
  SISTEMA DE MULTAS: / https://japa-dark.github.io/javascript/aula11/ex010.html
 
  SOMA DE NUMEROS: / https://japa-dark.github.io/javascript/aula10/ex007.html
+
+ SUPER CONTADOR: / https://japa-dark.github.io/javascript/ex016/modelo.html
