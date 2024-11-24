@@ -14,6 +14,5 @@ function gerartabuada() {
             tab.appendChild(item)
             c++
         }
-    }
-      
+    }  
 }
