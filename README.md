@@ -8,6 +8,7 @@ aula 02 - https://japa-dark.github.io/javascript/ex02/script02.html
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 aula 03 
+
 script03 - https://japa-dark.github.io/javascript/ex03/script03.html
 
 script04 - https://japa-dark.github.io/javascript/ex03/script04.html
@@ -15,6 +16,7 @@ script04 - https://japa-dark.github.io/javascript/ex03/script04.html
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 aula 04 
+
 script05 - https://japa-dark.github.io/javascript/ex04/script05.html
 
 script06 - https://japa-dark.github.io/javascript/ex04/script06.html
