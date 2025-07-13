@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>conhecendo o DOM</title>
+    <style>
+        body {
+            background-color: rgb(95, 53, 53);
+            color: white;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        strong {
+            color: rgb(211, 12, 12);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>iniciando estudos com DOM</h1>
+    <p>aqui vai o resultado</p>
+    <p>aprendendo a usar o <strong> DOM</strong> em javascript </p>
+    <div id="mensagem">clique em mim</div>
+    <br>
+    <p> ---------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+    <script>
+    
+        window.document.write('aqui eu vou escrever apenas com JS <br> <br>');
+        
+        var p1 = window.document.getElementsByTagName('p')[0];
+        window.document.write(p1.innerHTML);
+
+        window.document.write('<br><br>aprendendo a usar o <strong> DOM</strong> em javascript <br> <br>')
+
+        var msg = window.document.getElementById('mensagem')
+        window.document.write(msg.innerHTML)
+
+    </script>
+</body>
+
+</html>

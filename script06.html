@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eventos DOM</title>
+    <style>
+        h1 {
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        h2 {
+            text-align: center;
+        
+        }
+        div#area {
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            margin: auto;
+            position:absolute;
+            top: 35%;
+            left:42%;
+                        display: flex;
+            justify-content: center; /* Centraliza horizontalmente */
+            align-items: center;    /* Centraliza verticalmente */
+            height: 300px; /* Ou defina uma altura específica */
+            width: 300px;  /* Ou defina uma largura específica */
+    
+
+
+            background-color: rgb(32, 24, 24);
+            color: white;
+            line-height: 200px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>PASSE O MOUSE SOBRE O BLOCO A BAIXO</h1>
+    <h2>⬇</h2>
+    <div id="area" onclick="clicar()" onmouseenter="mouseentrar()" onmouseout="sair()">
+        interaja.......
+    </div>
+</body>
+<script>
+
+    var a = window.document.getElementById('area')
+    a.addEventListener('click', clicar)
+    a.addEventListener('mouseenter', mouseentrar)
+    a.addEventListener('mouseout', sair)
+
+    function clicar() {
+        a.innerText = 'clicou'
+        a.style.background = 'green'
+    }
+
+    function mouseentrar() {
+        a.innerText = 'entrou'
+        a.style.background = 'blue'
+    }
+    function sair() {
+        a.innerText = 'saiu'
+        a.style.background = 'red'
+    }
+
+</script>
+
+</html>
