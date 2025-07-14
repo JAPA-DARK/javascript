@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>verificador de nacionalidade</title>
+    <style>
+        body {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: bolder;
+            background-color: bisque;
+            text-align: center;
+        }
+        input {
+            padding: 2px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>qual é o pais aonde voçe nasceu?</h1>
+    <input type="text" name="txtpais" id="txtpais" placeholder="digite seu pais">
+    <input type="button" value="verificar" onclick="verificar()">
+    <div id="res">
+
+    </div>
+</body>
+<script>
+
+    function verificar() {
+        var txtpais = window.document.querySelector('input#txtpais');
+        var nacionalidade = txtpais.value.trim().toLowerCase();
+        var res = window.document.querySelector('div#res');
+        res.innerHTML = `voce nasceu no (a) ${nacionalidade}. <br> `;
+
+        if (nacionalidade === 'brasil') {
+            res.innerHTML += 'voce e brasileiro'
+
+        }else  {
+          res.innerHTML += 'voce e estrangeiro'
+
+    }
+};
+</script>
+
+</html>
