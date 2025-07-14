@@ -24,3 +24,9 @@ script06 - https://japa-dark.github.io/javascript/ex04/script06.html
 script07 - https://japa-dark.github.io/javascript/ex04/script07.html
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+aula 05 
+
+script010 - https://japa-dark.github.io/javascript/ex05/script010.html
+
+script011 - https://japa-dark.github.io/javascript/ex05/script011.html
+ 
