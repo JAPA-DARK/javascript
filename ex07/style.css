@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(105, 170, 170);
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    position: fixed;
+    top: 18%;
+    left: 38%;
+    background-color: aliceblue;
+    width: 450px;
+    height: 600px;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.473);
+    
+}
+div#msg {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    background-color: gainsboro;
+    box-shadow: 2px 2px 3px 3px rgba(220, 220, 220, 0.267);
+    width: 300px;
+    padding: 70px;
+    margin: auto;
+}
+
+div#foto {
+   
+}
+div#saudacao {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    margin-top: 50px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 700px;
+
+}
