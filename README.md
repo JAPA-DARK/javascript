@@ -5,7 +5,7 @@ projetos feitos durante o curso
 #hora do dia
 https://japa-dark.github.io/javascript/ex07/script015.html
 
-#contador
+#verificador de idade
 https://japa-dark.github.io/javascript/ex08/script016.html
 
 #tabuada
