@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    overflow-x: hidden;
+    background-color: rgb(96, 59, 131);
+    margin: 0;
+    width: 100vw;
+}
+h1 {
+    text-align: center;
+}
+#formulario {
+    background-color: azure;
+    width: 500px;
+    margin: auto;
+    padding: 30px;
+}
+div#res {
+    padding-top: 30px;
+}
+footer {
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: rgb(243, 153, 35);
+    padding: 5px;
+    margin: -3px;
+}
