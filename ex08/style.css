@@ -1,0 +1,45 @@
+@charset "UTF-8 ";
+
+body {
+    background-color: rgb(241, 191, 129);
+    
+}
+h1 {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-size: 50px;
+ text-align: center;
+}
+section {
+    background-color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+    position: fixed;
+    height: 600px;
+    width: 500px;
+    left: 37%;
+}
+#formularioano {
+    text-align: center;
+    padding-top: 30px;
+}
+#formulario {
+    
+}
+#preencher {
+    text-align: center;
+}
+#botaoverificar {
+    padding-left: 143px;
+}
+div#res {
+   
+}
+footer {
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 60px;
+    
+}
