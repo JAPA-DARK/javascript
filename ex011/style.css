@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    background-color: rgb(240, 207, 162);
+}
+h1 {
+ text-align: center;
+}
+section {
+     background-color: rgba(87, 86, 122, 0.466);
+     box-shadow: 2px 2px 2px 2px rgba(119, 53, 129, 0.712);
+    width: 200px;
+    height: 700px;
+    margin: auto;
+    padding: 30px;
+}
+select {
+    background-color: rgba(142, 51, 179, 0.089);
+}
+option {
+    width: 150px;
+    padding: 23px;
+    font-weight: bolder;
+    background-color: rgb(231, 148, 148);
+}
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgba(0, 0, 0, 0.589);
+    color:  rgba(14, 183, 206, 0.863);
+    padding: 10px;
+}
