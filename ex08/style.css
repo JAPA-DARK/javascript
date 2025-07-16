@@ -11,9 +11,8 @@ h1 {
 }
 section {
     background-color: beige;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
-
     position: fixed;
     height: 600px;
     width: 500px;
@@ -22,9 +21,6 @@ section {
 #formularioano {
     text-align: center;
     padding-top: 30px;
-}
-#formulario {
-    
 }
 #preencher {
     text-align: center;
