@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    background-color: rgba(72, 121, 122, 0.952);
+    
+
+}
+header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(255, 228, 196);
+    text-align: center;
+
+}
+section {
+    padding: 50px;
+    background-color: rgb(255, 228, 196);
+    margin: auto;
+    width: 600px;
+    height: 500px;
+}
+
+button {
+    margin-left: 5px;
+}
+select {
+    margin-left: 5px;
+    width: 250px;
+}
+
+footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: aliceblue;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+}

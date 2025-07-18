@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>analisador de numeros</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>
+            análisador de numeros
+        </h1>
+    </header>
+    <section>
+        <div>
+            <p>
+                digite um numero:(1-100)
+                <input type="number" name="fnum" id="fnum" placeholder="0 - 100">
+            </p>
+            <br>
+
+            <p>
+                <button type="button" value="adicionar" onclick="adicionar()"> adicionar
+                </button>
+            </p>
+            <select name="flista" id="flista" size="5"></select>
+            <br>
+            <br>
+            <button value="finalizar" onclick="analisar()"> analisar </button>
+        </div>
+        <div id="res">
+            
+        </div>
+
+    </section>
+    <footer>
+        &copy;Dev.Japa_
+    </footer>
+</body>
+<script src="script.js"></script>
+
+</html>
