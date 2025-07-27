@@ -41,7 +41,7 @@ O curso é ministrado pelo professor **Gustavo Guanabara** e aborda desde os con
 ## 👨‍💻 Autor
 
 **Ariel da Silva Alves**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ariel-da-silva-alves)
+🔗 [LinkedIn](https://www.linkedin.com/in/arieldasilvaalves/)
 
 ---
 
